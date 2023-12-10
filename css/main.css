@@ -301,12 +301,12 @@ section {
 
 .swiper-slide--two {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-  url("../img/livelo.png") no-repeat 50% 50% / cover;
+  url("../img/vivo.png") no-repeat 50% 50% / cover;
 }
 
 .swiper-slide--three {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-  url("../img/livelo.png") no-repeat 50% 50% / cover;
+  url("../img/ambev.png") no-repeat 50% 50% / cover;
 }
 
 .swiper-slide--four {
